@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rmga_fixture_0001",
+    "action": "removelink",
+    "created_utc": 1760409600,
+    "target_fullname": "t3_1a2b3c",
+    "target_author": "new_account_01",
+    "mod": "Vegetable_Maize2376",
+    "details": "rule:1",
+    "description": "Removed: Rule 1 - No low-effort posts",
+    "permalink": "https://www.reddit.com/r/synthetic_options/comments/1a2b3c/example_post_title/"
+  },
+  {
+    "id": "rmga_fixture_0002",
+    "action": "approvecomment",
+    "created_utc": 1760411400,
+    "target_fullname": "t1_d4e5f6",
+    "target_author": "regular_user_42",
+    "mod": "Vegetable_Maize2376",
+    "details": null,
+    "description": "Approved comment after review",
+    "permalink": null
+  },
+  {
+    "id": "rmga_fixture_0003",
+    "action": "removecomment",
+    "created_utc": 1760413200,
+    "target_fullname": "t1_g7h8i9",
+    "target_author": "heated_debater",
+    "mod": "Vegetable_Maize2376",
+    "details": "rule:2",
+    "description": "Removed: Rule 2 - Be civil",
+    "permalink": null
+  },
+  {
+    "id": "rmga_fixture_0004",
+    "action": "approvelink",
+    "created_utc": 1760415000,
+    "target_fullname": "t3_7z8y9x",
+    "target_author": "options_learner",
+    "mod": "Vegetable_Maize2376",
+    "details": null,
+    "description": "Approved post after manual review",
+    "permalink": "https://www.reddit.com/r/synthetic_options/comments/7z8y9x/learning_question/"
+  },
+  {
+    "id": "rmga_fixture_0005",
+    "action": "lock",
+    "created_utc": 1760416800,
+    "target_fullname": "t3_k3l2m1",
+    "target_author": "controversial_post",
+    "mod": "Vegetable_Maize2376",
+    "details": null,
+    "description": "Locked thread due to escalating arguments",
+    "permalink": "https://www.reddit.com/r/synthetic_options/comments/k3l2m1/controversial_thread/"
+  },
+  {
+    "id": "rmga_fixture_0006",
+    "action": "removelink",
+    "created_utc": 1760418600,
+    "target_fullname": "t3_n4o5p6",
+    "target_author": "spammy_linker",
+    "mod": "Vegetable_Maize2376",
+    "details": "rule:3",
+    "description": "Removed: Rule 3 - No promotions or referrals",
+    "permalink": "https://www.reddit.com/r/synthetic_options/comments/n4o5p6/check_out_my_course/"
+  },
+  {
+    "id": "rmga_fixture_0007",
+    "action": "banuser",
+    "created_utc": 1760420400,
+    "target_fullname": null,
+    "target_author": "spammy_linker",
+    "mod": "Vegetable_Maize2376",
+    "details": "duration:permanent",
+    "description": "Banned user for repeated promo spam",
+    "permalink": null
+  },
+  {
+    "id": "rmga_fixture_0008",
+    "action": "unbanuser",
+    "created_utc": 1760422200,
+    "target_fullname": null,
+    "target_author": "new_account_01",
+    "mod": "Vegetable_Maize2376",
+    "details": null,
+    "description": "Unbanned after appeal and clarification",
+    "permalink": null
+  },
+  {
+    "id": "rmga_fixture_0009",
+    "action": "removelink",
+    "created_utc": 1760424000,
+    "target_fullname": "t3_q7r8s9",
+    "target_author": "crossposter_88",
+    "mod": "Vegetable_Maize2376",
+    "details": "rule:4",
+    "description": "Removed: Rule 4 - Off-topic content",
+    "permalink": "https://www.reddit.com/r/synthetic_options/comments/q7r8s9/off_topic_post/"
+  },
+  {
+    "id": "rmga_fixture_0010",
+    "action": "approvelink",
+    "created_utc": 1760425800,
+    "target_fullname": "t3_t1u2v3",
+    "target_author": "regular_user_42",
+    "mod": "Vegetable_Maize2376",
+    "details": null,
+    "description": "Approved: on-topic strategy discussion",
+    "permalink": "https://www.reddit.com/r/synthetic_options/comments/t1u2v3/strategy_discussion/"
+  }
+]

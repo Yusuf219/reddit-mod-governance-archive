@@ -1,0 +1,7 @@
+.env
+venv/
+.venv/
+rmga.db
+exports/
+__pycache__/
+*.pyc
